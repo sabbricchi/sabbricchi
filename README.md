@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center"> 🐱‍💻 Hacker by Day, Frog by Night 🐸</h1>
 
-<!--
-**sabbricchi/sabbricchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i style="color:pink;">"Writing code with a black cat sidekick and frog powers engaged."</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 About Me
+- 💻 AI engineer / AI tamer / 🦎 Problem-solving lizard
+- 🐸 Certified frog enthusiast & pink pixel sorcerer
+- 🐈‍⬛ Cat-powered productivity advocate
+- 🎨 I build things
+
+---
+
+### ⚡ What I’m Into
+- 🧪 Building wonderful, questionably stable PoCs
+- 🧠 Playing with structured chaos
+- 💚 My lovely team, always
+- 🎀 Adding a splash of pink to serious tech
+
+---
+
+### 🐾 Cats & Code
+- 🐱 100% of my breakthroughs involve a black cat on my lap
+- 🖥️ I debug better with purring in the background
+- 🐾 Pair programming with paw inputs? Absolutely.
+
+---
+
+### ✨ Current Vibe
+```python
+if not in_frog_mode:
+    enable_frog_mode(pink=True, cat_on_lap=True)
