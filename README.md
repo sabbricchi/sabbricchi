@@ -1,4 +1,4 @@
-<h1 align="center"> 🐱‍💻 Hacker by Day, Frog by Night 🐸</h1>
+<h1 align="center"> 🐱‍💻 </h1>
 
 <p align="center">
   <i style="color:pink;">"Writing code with a black cat sidekick and frog powers engaged."</i>
