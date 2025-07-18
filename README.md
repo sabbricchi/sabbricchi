@@ -20,16 +20,3 @@
 - 💚 My lovely team, always
 - 🎀 Adding a splash of pink to serious tech
 
----
-
-### 🐾 Cats & Code
-- 🐱 100% of my breakthroughs involve a black cat on my lap
-- 🖥️ I debug better with purring in the background
-- 🐾 Pair programming with paw inputs? Absolutely.
-
----
-
-### ✨ Current Vibe
-```python
-if not in_frog_mode:
-    enable_frog_mode(pink=True, cat_on_lap=True)
